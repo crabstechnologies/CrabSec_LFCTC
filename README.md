@@ -1,3 +1,5 @@
+![crabseclogo](https://github.com/user-attachments/assets/8f93806a-4586-415a-b28e-049c29eae94f)
+
 # CrabSec_LFCTC
 ## The Linux Filesystems & 63 Common Terminal Commands
 
