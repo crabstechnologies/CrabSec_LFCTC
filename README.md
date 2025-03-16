@@ -13,6 +13,6 @@ Whether you're new to Linux or looking to sharpen your skills in security and pe
 
 🔗 Download the PDF & Watch the Video to level up your Linux knowledge!
 
-📺 Watch the full tutorial on YouTube: Click here
+📺 Watch the full tutorial on YouTube: https://www.youtube.com/watch?v=K4swxBrpyT0
 
 ## ⭐ If you find this helpful, please consider giving a star to support the project!
